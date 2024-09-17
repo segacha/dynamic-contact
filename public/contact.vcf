@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Juan Pérez
+N:Pérez;Juan;Carlos;Sr.;Jr.
+NICKNAME:Juanito
+ORG:Empresa S.A.
+TITLE:Gerente de Ventas
+TEL;TYPE=CELL:+1234567890
+TEL;TYPE=HOME:+0987654321
+TEL;TYPE=WORK:+1122334455
+TEL;TYPE=FAX:+5566778899
+EMAIL:juan.perez@example.com
+ADR;TYPE=WORK:;;Calle 123;Ciudad;Estado;CP;País
+URL:https://www.ejemplo.com
+BDAY:1990-01-01
+PHOTO;VALUE=URI:https://www.ejemplo.com/foto.jpg
+NOTE:Este es un contacto importante
+REV:20230916T130000Z
+END:VCARD
