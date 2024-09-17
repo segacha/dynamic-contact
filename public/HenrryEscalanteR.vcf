@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Ing. Henrry Escalante Roha.
+FN:Henrry Escalante
+N:Escalante;Henrry;R.;Ing.
 ORG:ERB
 TITLE:Socio Principal
 TEL;TYPE=CELL:0958989218
-TEL;TYPE=WORK:(593)46010055
+TEL;TYPE=WORK:+59346010055
 EMAIL;TYPE=INTERNET:h.escalante@erb.com.ec
 ADR;TYPE=WORK:;;Edificio Kennedy Point, Av. Miguel H. Alcívar;Guayaquil;Guayas;090512;Ecuador
 URL:www.erb.com.ec

@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Henry Escalante
-N:Escalante;Henry;R.;Ing.
+FN:Verónica Segale
+N:Segale;Verónica;Ing.
 ORG:ERB
-TITLE:Socio Principal
-TEL;TYPE=CELL:0962702701
+TITLE:Gerente Administrativa-Financiera
+TEL;TYPE=CELL:0995950950
 TEL;TYPE=WORK:+59346010055
-EMAIL;TYPE=INTERNET:henry.escalante@erb.com.ec
+EMAIL;TYPE=INTERNET:veronica.segale@erb.com.ec
 ADR;TYPE=WORK:;;Edificio Kennedy Point, Av. Miguel H. Alcívar;Guayaquil;Guayas;090512;Ecuador
 URL:www.erb.com.ec
 END:VCARD

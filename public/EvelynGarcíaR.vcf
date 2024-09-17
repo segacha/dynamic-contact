@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Ing. Evelyn García R.
+FN:Evelyn García
+N:García;Evelyn;R.;Ing.
 ORG:ERB
 TITLE:Coordinadora de Auditoría
 TEL;TYPE=CELL:0939022415
-TEL;TYPE=WORK:(593)46010055
+TEL;TYPE=WORK:+59346010055
 EMAIL;TYPE=INTERNET:e.garcia@erb.com.ec
 ADR;TYPE=WORK:;;Edificio Kennedy Point, Av. Miguel H. Alcívar;Guayaquil;Guayas;090512;Ecuador
 URL:www.erb.com.ec
